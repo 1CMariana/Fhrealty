@@ -8,7 +8,7 @@ To get started with Family Haven Realty, follow these steps:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/your-username/family-haven-realty.git
+$ git clone https://github.com/1CMariana/family-haven-realty.git
 
 # Navigate into the project directory
 $ cd family-haven-realty
